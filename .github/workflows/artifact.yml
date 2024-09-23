@@ -28,6 +28,6 @@ jobs:
       with:
         name: hello-artifact
     - name: cat file
-      run: cat ./hello-artifact/hello.txt
+      run: cat ./hello.txt
  
       
